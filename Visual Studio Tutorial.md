@@ -1,7 +1,7 @@
 # How to create a new Win32 C++ prodject in visual Studio 2017 CR LF 
-Guild goes hereCRLF
-1. do the firstCRLF
-2. do this secondCRLF
-	1. do this subCRLF
-	2. do this secondCRLF
-3. do this lastCRLF
+Guild goes here
+1. do the first
+2. do this second
+	1. do this sub
+	2. do this second
+3. do this last
